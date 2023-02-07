@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+}
+
+.background-img {
+  margin: 0;
+  padding: 0;
+  background-size: 100%;
+  width: 1500px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.top-left-text {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left-text a {
+  display: flex;
+  flex-direction: column;
+  font-size: larger;
+  margin-bottom: 10px;
+  margin-left: 300px;
+  margin-top: 40px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+
+  width: 125px;
+  height: 25px;
+  background: #70050d;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  line-height: 25px;
+}

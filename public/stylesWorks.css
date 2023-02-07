@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+}
+
+.nav-bar {
+  background: #70050d;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 5px;
+  color: black;
+}
+.nav-bar a {
+  color: white;
+  font-size: large;
+}
+ 
+.title{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    font-size: 150px;
+}
+
+.demasiadasMujeres{
+    width:700px;
+    float:left;
+    margin: 0, 0, 0, 15px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.ingobernable{
+    width:700px;
+    float:right;
+    margin: 0, 0, 0, 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-right: 50px;
+
+}
+.llamarTuAtención{
+    width:700px;
+    float:left;
+    margin: 0, 0, 0, 15px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.tranquilissimo{
+    width:700px;
+    float:right;
+    margin: 0, 0, 0, 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-right: 50px;
+}
